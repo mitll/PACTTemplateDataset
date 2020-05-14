@@ -45,10 +45,10 @@ Within each data folder are separate subfolders for each measurement device (iPh
 iPhone folders contain csv log files from the Bluetooth Proximity app.  Ubertooth and nRF52 folders contain PCAP (Wireshark) files, as well as CSV files containing teh most relevant subset of the PCAP data.  These CSV files contain a header line so they are self-explanatory.
 
 Contact:
-	Mark Krangle
-	The MITRE Corporation
-	mkrangle@mitre.org
-	781-271-7008
+Mark Krangle
+The MITRE Corporation
+mkrangle@mitre.org
+781-271-7008
 
 
 
