@@ -14,12 +14,12 @@ This was an initial attempt at collecting data however it was discovered that th
 
 The "-2" and "-3" recordings were both done with the new fiberglass support frame for the BLTE sniffer at 6ft ("-2") and 12ft ("-3") distances.
 
-### iPhone 11-1
-### iPhone 11-2
-### iPhone 11-3
-### Samsung Galaxy S10-1
-### Samsung Galaxy S10-2
-### Samsung Galaxy S10-3
-### Samsung Galaxy S7-1
-### Samsung Galaxy S7-2
-### Samsung Galaxy S7-3
+- iPhone 11-1
+- iPhone 11-2
+- iPhone 11-3
+- Samsung Galaxy S10-1
+- Samsung Galaxy S10-2
+- Samsung Galaxy S10-3
+- Samsung Galaxy S7-1
+- Samsung Galaxy S7-2
+- Samsung Galaxy S7-3
