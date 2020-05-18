@@ -1,5 +1,8 @@
 # KRI Anechoic Chamber Dataset
 
+## Data files
+Each data collection consists of multiple file types.  The CSV files following the format below, a raw Wireshark pcapng file containing raw BTLE packets, and text files containing calculated statistics on the associated dataset.
+
 ## Data format
 All data is formatted using a modified MITLL CSV format as follows:
 
@@ -8,7 +11,7 @@ All data is formatted using a modified MITLL CSV format as follows:
 *Data format can be: "Environment", "Device", "Range", "Angle", "TxPower", "GPS", "Bluetooth"
 
 ## Collected Data
-All data was collected using the nRF52 BTLE Sniffer and a custom program (located at https://github.com/klingm/btle_sniffer) The following data collection are included in the nRF52 folder:
+All data was collected using the nRF52 BTLE Sniffer and a custom program (located at https://github.com/klingm/btle_sniffer). The following data collection are included in the nRF52 folder:
 
 - iPhone 11-1
 - iPhone 11-2
