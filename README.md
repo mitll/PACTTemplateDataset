@@ -12,11 +12,11 @@ Each "-1" recording was performed with the Nordic Semi nRF52 BLTE Sniffer set up
 
 This was an initial attempt at collecting data however it was discovered that the tripod was contributing to some unwanted variability in the data due to a metallic core.  Subsequent captures were redone with a full fiberglass support frame used to mount the BLTE sniffer.
 
-![Tripod](readme/tripod.png)
+![Tripod](readme/tripod.jpg)
 
 The "-2" and "-3" recordings were both done with the new fiberglass support frame for the BLTE sniffer at 6ft ("-2") and 12ft ("-3") distances.
 
-![Fiberglass](readme/fiberglass.png)
+![Fiberglass](readme/fiberglass.jpg)
 
 - iPhone 11-1
 - iPhone 11-2
